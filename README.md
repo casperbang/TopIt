@@ -26,4 +26,4 @@ These features are highly experimental and may or may not work:
 * &lt;Alt&gt;+&lt;Num 1&gt; Selects  lower-left edges of window for manipulation
 * &lt;Alt&gt;+&lt;Num 3&gt; Selects  lower-right edges of window for manipulation
 
-Remember, this is an initial code drop and therefore work in progress!
+Remember, this is an initial code drop and therefore work in progress. You may read more about it on my blog at http://blog.bangbits.com
