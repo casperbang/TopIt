@@ -1,7 +1,7 @@
 TopIt
 =====
 
-Among other things, TopIt allows you to control the Z-order of all applications, like on Linux.
+Among other things, TopIt allows you to control the Z-order of all applications, like seen on Linux.
 
 These features are to be considered stable and tested:
 
@@ -26,4 +26,6 @@ These features are highly experimental and may or may not work:
 * &lt;Alt&gt;+&lt;Num 1&gt; Selects  lower-left edges of window for manipulation
 * &lt;Alt&gt;+&lt;Num 3&gt; Selects  lower-right edges of window for manipulation
 
-Remember, this is an initial code drop and therefore work in progress. You may read more about it on my blog at http://blog.bangbits.com
+For the code inquisative, the interesting stuff [is here](https://github.com/casperbang/TopIt/blob/master/TopIt/TopIt.cpp).
+
+Please remember, this is an initial code drop and therefore work in progress. There may very well be memory leaks and other problems I have not combed out yet. You may read more about it on [my blog](http://blog.bangbits.com/2014/10/topit-window-utility-for-windows.html).
